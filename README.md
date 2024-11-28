@@ -15,6 +15,7 @@ Building full-stack applications and experimenting with new tools in software en
 🛠️ Tech Stack & Tools:
 
 Languages: Python, C, C++, JavaScript, SQL, HTML, C# 
+
 Frameworks and Libraries: 
 ML: PyTorch, Numpy, Pandas, Scipy, Matplotlib, 
 SWE: React, Svelte, .NET MUAI
