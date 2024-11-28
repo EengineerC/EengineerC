@@ -15,7 +15,6 @@ Building full-stack applications and experimenting with new tools in software en
 🛠️ Tech Stack & Tools:
 
 Languages: Python, C, C++, JavaScript, SQL, HTML, C# 
-
 Frameworks and Libraries: PyTorch, Numpy, Pandas, Scipy, Matplotlib, React, Svelte, .NET MUAI
 Tools & Platforms: Jupyter, Git, Docker, AWS, Google Cloud Platform
 Software Engineering: Full-stack development, REST APIs, Agile development, CI/CD, DevOps
