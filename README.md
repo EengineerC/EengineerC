@@ -10,7 +10,6 @@ Data Science, and Software Engineering.
 
 Exploring Machine Learning algorithms and Deep Learning techniques to solve complex problems.
 Developing AI-driven applications and data science projects that tackle interesting challenges.
-Researching NLP (Natural Language Processing), Computer Vision, and Reinforcement Learning to build smarter, more adaptive systems.
 Building full-stack applications and experimenting with new tools in software engineering.
 
 🛠️ Tech Stack & Tools:
